@@ -1,0 +1,52 @@
+Tortus
+Workshop
+Ally
+"Tortus" is pumping iron in his workshop, a brash, burly blacksmith and a cold-blooded fighter.
+you meet "Tortus" pumping iron in his workshop, a brash, burly blacksmith and a cold-blooded fighter.
+forge
+sledge
+bezel
+gift
+character info
+Splinter
+Burrows
+Ally
+"Splinter" is the merchant of a dingy pawn shop, a robed rodent with an air of ancient wisdom.
+you meet "Splinter", the merchant of a dingy pawn shop, a robed rodent with an air of ancient wisdom.
+buy
+sell
+tips
+gift
+character info
+Remy
+Kitchen
+Ally
+remy's intro -- tbd
+remy's intro -- tbd
+cook
+snack
+chat
+gift
+character info
+Razmona
+Laboratory
+Ally
+"Razmona" is brewing some wizardly elixir  --- she speaks to you in a tongue you cannot yet understand.
+You meet a mysterious figure, brewing some wizardly elixir --- she speaks to you in a tongue you cannot yet understand.
+brew
+stew
+imbue
+gift
+character info
+Dwarf King
+Lair
+Dwarf
+tbd
+tbd
+tbd
+tbd
+tbd
+tbd
+tbd
+
+
