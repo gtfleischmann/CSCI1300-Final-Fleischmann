@@ -1,0 +1,85 @@
+Spiky Stone
+blade
+2
+4
+FALSE
+Copper Dagger
+blade
+6
+8
+FALSE
+Iron Dagger
+blade
+12
+15
+FALSE
+Titanium Dagger
+blade
+22
+25
+FALSE
+Iridium Dagger
+blade
+35
+38
+FALSE
+Obsidian Dagger
+blade
+40
+42
+FALSE
+Crystal Dagger
+blade
+45
+45
+FALSE
+Minitaur Shank
+blade
+10
+14
+FALSE
+Megataur Shank
+blade
+20
+26
+FALSE
+Saber's Tooth
+blade
+9
+12
+FALSE
+Saber's Teeth
+blade
+16
+20
+FALSE
+Copper Sword
+blade
+8
+14
+TRUE
+Iron Sword
+blade
+16
+24
+TRUE
+Titanium Sword
+blade
+28
+38
+TRUE
+Iridium Sword
+blade
+42
+55
+TRUE
+Dino Bone
+blade
+18
+22
+FALSE
+Splinter's Staff
+blade
+30
+30
+FALSE

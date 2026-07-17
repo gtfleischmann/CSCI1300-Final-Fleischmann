@@ -1,0 +1,60 @@
+Copper Shield
+protection
+4
+6
+FALSE
+Iron Shield
+protection
+8
+10
+FALSE
+Titanium Shield
+protection
+15
+16
+FALSE
+Iridium Shield
+protection
+22
+24
+FALSE
+Copper Armor
+protection
+6
+10
+FALSE
+Iron Armor
+protection
+12
+16
+FALSE
+Titanium Armor
+protection
+20
+26
+FALSE
+Iridium Armor
+protection
+30
+36
+FALSE
+Tortus' Shell
+protection
+25
+30
+FALSE
+Minitaur Armor
+protection
+10
+14
+FALSE
+Megataur Armor
+protection
+18
+24
+FALSE
+Dino Skull
+protection
+14
+18
+FALSE

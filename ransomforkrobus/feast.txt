@@ -1,0 +1,25 @@
+Bug Skewer
+feast
+6
+10
+FALSE
+Slug Chowder
+feast
+10
+16
+FALSE
+Bat Fruit Tart
+feast
+16
+24
+FALSE
+Ratatouille
+feast
+20
+30
+FALSE
+Remy's Feast
+feast
+90
+100
+FALSE

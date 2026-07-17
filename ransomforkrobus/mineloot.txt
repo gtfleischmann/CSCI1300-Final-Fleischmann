@@ -1,0 +1,100 @@
+Stone
+mineloot
+1
+0
+FALSE
+Copper Ore
+mineloot
+2
+0
+FALSE
+Iron Ore
+mineloot
+4
+0
+FALSE
+Titanium Ore
+mineloot
+7
+0
+FALSE
+Iridium Ore
+mineloot
+10
+0
+FALSE
+Slug
+mineloot
+2
+0
+FALSE
+Bug
+mineloot
+2
+0
+FALSE
+Mushroom
+mineloot
+4
+0
+FALSE
+Magic Mushroom
+mineloot
+15
+0
+FALSE
+Cave Carrot
+mineloot
+3
+0
+FALSE
+Cave Potato
+mineloot
+3
+0
+FALSE
+Cave Onion
+mineloot
+3
+0
+FALSE
+Bat Fruit
+mineloot
+5
+0
+FALSE
+Goblin Steak
+mineloot
+5
+0
+FALSE
+Snake Oil
+mineloot
+12
+0
+FALSE
+Snake Skin
+mineloot
+8
+0
+FALSE
+Minitaur Hide
+mineloot
+10
+0
+FALSE
+Megataur Hide
+mineloot
+18
+0
+FALSE
+Ooze
+mineloot
+5
+0
+FALSE
+Ring Worm
+mineloot
+5
+0
+FALSE

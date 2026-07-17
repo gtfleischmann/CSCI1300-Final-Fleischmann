@@ -1,0 +1,70 @@
+Pale Ale
+brew
+3
+6
+FALSE
+Heavy Ale
+brew
+8
+14
+FALSE
+Snakebite Ale
+brew
+18
+26
+FALSE
+Ooze Booze
+brew
+12
+18
+FALSE
+Moonshine
+brew
+40
+50
+FALSE
+Shale Ale
+brew
+16
+24
+FALSE
+Cider
+brew
+5
+10
+FALSE
+Hard Cider
+brew
+14
+22
+FALSE
+Crystal Cider
+brew
+45
+55
+FALSE
+Snakebite Cider
+brew
+24
+32
+FALSE
+Bug Brew
+brew
+20
+28
+FALSE
+Slug Brew
+brew
+20
+28
+FALSE
+Minitaur Blood
+brew
+10
+16
+FALSE
+Megataur Blood
+brew
+18
+26
+FALSE

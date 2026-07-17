@@ -1,0 +1,30 @@
+Wizard's Scroll I
+scroll
+5
+0
+FALSE
+Wizard's Scroll II
+scroll
+10
+0
+FALSE
+Wizard's Scroll III
+scroll
+15
+0
+FALSE
+Dwarven Scroll I
+scroll
+5
+0
+FALSE
+Dwarven Scroll II
+scroll
+10
+0
+FALSE
+Dwarven Scroll III
+scroll
+15
+0
+FALSE
